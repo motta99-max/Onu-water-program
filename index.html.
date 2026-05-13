@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONU: Cada Gota Cuenta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="marquee-container">
+        <div id="marquesina-dinamica"></div>
+    </div>
+
+    <header>
+        <div class="logo-onu">ONU | Agua para el Desarrollo</div>
+        <h1>Cuidado del Agua: Una Misión de Todos</h1>
+        <p>Acciones simples para personas comunes frente a la crisis hídrica global.</p>
+    </header>
+
+    <main>
+        <section class="seccion-agua">
+            <h2>Acciones Diarias Sugeridas</h2>
+            <div class="grid-acciones">
+                <div class="tarjeta-accion">
+                    <h3>Higiene Consciente</h3>
+                    <p>Cierra el grifo mientras te enjabonas las manos. Ahorras hasta 6 litros por minuto.</p>
+                </div>
+                <div class="tarjeta-accion">
+                    <h3>Reporta Fugas</h3>
+                    <p>Una gota por segundo desperdicia 30 litros al día. Repara fugas en casa.</p>
+                </div>
+                <div class="tarjeta-accion">
+                    <h3>Consumo Responsable</h3>
+                    <p>Elige productos con menor huella hídrica y reduce el desperdicio.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
